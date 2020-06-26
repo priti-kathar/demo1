@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello from priti!";
-echo "sucessfully lauched svc application"
+
 ?>
 
 </body>
